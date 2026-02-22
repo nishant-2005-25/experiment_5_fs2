@@ -1,7 +1,12 @@
 # 🚀 Experiment 5 — React Performance Optimization
 
+submitted by 
+NAME = Nishant Verma,
+UID = 23BAI70013
+
+
 ### 🎓 Full Stack II (23CSH-382)  
-**Chandigarh University | 4th Semester**
+**Chandigarh University | 6th Semester**
 
 ---
 
